@@ -6,6 +6,8 @@ Name: YOUR NAME HERE
 | Jan 15 | 10-10:30 | I tried work out some of the solutions we talked about in class and tried to think about when we need to "recount" or start again. I'm thinking it has something to do with storing the smallest number we've seen as we pass through and "recount" from that position. Kind of like a local or absolute minimum. |
 | Jan 16 |  class   |                                                        In class, Mr. Blick gave us the hint of solving the problem with an increasingly large window. We talked about how to make this more efficient: first by using union find(which didn't end up working) and then we though a bit about doing it with a map. |
 | Jan 17 |  2-2:30  |                                                                                                                                                     I started coding a bit to try a linear approach to the problem, I got halfway through writing something I could run before IntelliJ started glitching out.... |
+| Jan 18 |  class   |                                                                                                                                                      I coded most of my program: I set up my adjacency structure and created a first draft of a method that finds the longest run from an inputted starting node. |
+| Jan 18 |  4-4:45  |                                                                        I debugged my code to get it mostly working. I was looking at the wrong index in my runs arraylist and I was adding things slightly incorrectly which threw me off. I am still not passing one test case but I can't figure that one out.  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
